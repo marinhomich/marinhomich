@@ -6,4 +6,4 @@
 
 ### About me
 
-- [Website] 💻 - Em Desenvolvimento.
+- [Website] 💻 - In Development.
