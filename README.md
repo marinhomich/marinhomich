@@ -5,7 +5,7 @@
 ## Tech Knowdledge
 
 ### Languages
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![1](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   
   
 ### Libraries and Frameworks
