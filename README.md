@@ -2,22 +2,6 @@
 
 ## About Me 
 
-## Tech Knowdledge
-
-### Languages
-  ![1](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
-  
-### Libraries and Frameworks
- 
-   
-### Infrastructure and DevOps
- 
-
-### Enviroment, IDEs and Tools
- 
-
-## Technologies I'm interested to learn more 
 
   
 ## GitHub Analytics 
