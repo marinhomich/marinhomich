@@ -1,4 +1,4 @@
-# Hello, world. I'm Michel Marinho.
+# Hello. I'm Michel Marinho.
 
 <p>
     <kbd>
