@@ -3,7 +3,7 @@
 
 ## Michel Marinho <img src="./assets/hi.gif" height="auto" width="30">
 
- Desenvolvedor Frontend no **[Instituto Conecthus](https://www.conecthus.org.br/).**
+ Desenvolvedor Frontend no **[Instituto Conecthus](https://www.conecthus.org.br/)** | **Tectoy**
 
 
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/marinhomich)
