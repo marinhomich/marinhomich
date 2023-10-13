@@ -3,7 +3,7 @@
 
 ## Michel Marinho <img src="./assets/hi.gif" height="auto" width="30">
 
- Desenvolvedor Frontend na **[TecToy](https://www.linkedin.com/company/tectoy)**
+ Desenvolvedor Frontend.
 
 
 [![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/marinhomich)
