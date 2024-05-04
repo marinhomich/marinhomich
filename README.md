@@ -1,7 +1,7 @@
 ### Hey, I'm Michel Marinho! <img src="./assets/hi.gif" height="auto" width="30">
 
-🤓 Frontend Developer at [TecToy](https://www.tectoy.com.br/) <br>
-🇧🇷 Born in Manaus, Brazil <br>
+Frontend Developer<br>
+Born in Manaus, Brazil <br>
 
 ### Find me elsewhere 🌎
 
