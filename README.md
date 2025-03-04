@@ -1,11 +1,31 @@
-### Hey, I'm Michel Marinho! <img src="./assets/hi.gif" height="auto" width="30">
+### Hello! I'm Michel Marinho  <img src="./assets/hi.gif" height="auto" width="30">
 
-Frontend Developer<br>
-Born in Manaus, Brazil <br>
+💻 **Software Engineer**  
+📍 Manaus, AM, Brazil  
+📧 [marinhomich@gmail.com](mailto:marinhomich@gmail.com)  
+🌎 [marinhomich.com](https://marinhomich.com)  
 
-### Find me elsewhere 🌎
+---
 
-[![SITE](https://img.shields.io/badge/Site-black?style=for-the-badge&logo=GoogleChrome)](https://marinhomich.dev)
-[![TWITTER](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/marinhomich)
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/marinhomich)
-[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marinhomich)
+### 🚀 About Me
+I'm a passionate software developer focused on technology and innovation.
+
+I have experience with **.NET, Angular, React, Node.js, Java, SQL, Cloud Computing (GCP), Docker**, and more. I enjoy challenges and learning new technologies to solve real-world problems.
+
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, C#, Java, SQL
+- **Frontend**: React, Angular, Tailwind, Material UI, Bootstrap
+- **Backend**: .NET, Node.js, Spring Boot, Express.js
+- **Databases**: PostgreSQL, MySQL, Firebase
+- **Cloud & DevOps**: Google Cloud Platform (GCP), Docker, Jenkins
+- **Tools**: Git, GitHub, GitLab, JIRA, VS Code, IntelliJ IDEA
+
+### 🌎 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/marinhomich)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/marinhomich)  
+
+---
+🚀 Always looking for new challenges and learning opportunities!
